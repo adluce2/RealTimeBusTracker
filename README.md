@@ -15,7 +15,7 @@ I received data on bus stop locations from MBTA. When the button is clicked, jav
 
 ### Built with
 
-- [MapBox](mapbox.com) - JavaScript library
+- [mapbox.com](https://www.mapbox.com/) JavaScript library
 
 ### Useful resources
 
