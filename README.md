@@ -9,9 +9,8 @@ I added a zoom control to the map.
 ### Run Tracker
 To run the tracker you can download the folder to your computer and load it into the browser. 
 
-## My process
-
-I received data on bus stop locations from MBTA. When the button is clicked, javascript iterates over the locations and displays them on the map.
+## Future Enhancements
+I'd like to add 3D images and add additional bus routes to key sites in Boston.
 
 ### Built with
 
