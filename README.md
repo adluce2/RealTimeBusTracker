@@ -20,18 +20,6 @@ I received data on bus stop locations from MBTA. When the button is clicked, jav
 
 - [MapBox](mapbox.com) - JavaScript library
 
-
-
-```js
-let map = new mapboxgl.Map({
-  container: 'map',
-  style: 'mapbox://styles/emday4prez/cl475f05a000015usq1d69d7e',
-  center: [-71.104081, 42.365554],
-  zoom: 14,
-});
-```
-
-
 ### Useful resources
 
 - [Mapbox Documentation](https://docs.mapbox.com/)
